@@ -1,0 +1,30 @@
+body{
+    
+    background-color: rgb(44, 41, 41);
+}
+.c1{
+    margin-top: 100px;
+}
+
+.first{
+  
+    padding-top: 20px;
+    border: 2px groove rgb(46, 18, 18);
+}
+.fourth{
+    padding-top: 10px;
+    border: 2px groove rgb(46, 18, 18);
+}
+.but{
+    margin-left: 300px;
+    border: 2px groove rgb(112, 16, 16);
+    margin-top: -200px
+}
+.but:hover{
+    background-color: black;
+    color: aqua;
+    margin-left: 300px;
+    border: 2px groove rgb(112, 16, 16);
+}
+
+

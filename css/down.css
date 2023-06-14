@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(241, 240, 241);
+    margin-top: 200px;
+    
+}
+.first{
+    border: 2px groove white;
+    border-radius: 20px;
+   
+}
+.second{
+    border: 2px groove white;   border-radius: 20px;
+
+}
+
+img{
+    max-width: 100%;
+    max-height: 200px;   border-radius: 20px;
+
+}
+.third{
+   border: 2px groove white;     border-radius: 20px;
+}

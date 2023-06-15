@@ -1,0 +1,67 @@
+body{
+    background-image: linear-gradient(45deg,
+    rgba(105, 86, 86, 0.75),
+    rgba(8,83,156, 0.75)), url(/images/art4.jpg) 
+};
+   
+
+.c1{
+    margin-top: 100px;
+}
+
+.first{
+  
+    padding-top: 20px;
+    border: 2px groove rgb(46, 18, 18);
+}
+.first:hover{
+    background-color: black;
+    border-radius: 10px;
+    border-style: dotted;
+    
+
+
+}
+.fourth{
+    padding-top: 10px;
+    border: 2px groove rgb(46, 18, 18);
+}
+.fourth:hover{
+    background-color: black;
+    border-radius: 10px;
+    border-style: dotted;
+
+}
+.but{
+    margin-left: 390px;
+    border: 2px groove rgb(235, 231, 231);
+    margin-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    box-shadow: 2px 3px 10px brown;
+}
+.but:hover{
+    background-color: rgb(10, 10, 10);
+    color: rgb(216, 229, 233);
+    margin-left: 390px;
+    border: 2px groove rgb(167, 16, 16);
+    border-radius: 30px;
+    
+}
+.dow{
+    margin-left: 590px;
+    border: 2px groove rgb(235, 231, 231);
+    margin-top: 150px;
+    padding-left: 100px;
+    padding-right: 100px;
+    box-shadow: 2px 3px 10px brown;
+}
+.dow:hover{
+    background-color: rgb(10, 10, 10);
+    color: rgb(216, 229, 233);
+    margin-left: 590px;
+    border: 2px groove rgb(194, 13, 13);
+    border-radius: 30px;
+    
+}
+

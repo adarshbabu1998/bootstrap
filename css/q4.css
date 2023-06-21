@@ -1,0 +1,42 @@
+.a{
+    border: 50px groove black;
+    padding-bottom: 800px;
+    margin-top: 20px;
+}
+.b{
+    background-color: rgb(84, 139, 84);
+    border: 2px groove black;
+    padding-bottom: 100px;
+   
+    margin-left: 80px;
+    margin-top: 150px;
+}
+.c{
+    background-color: rgb(84, 139, 84);
+    border: 2px groove black;
+    padding-bottom: 400px;
+    
+    margin-left: 80px;
+    margin-top: 20px;
+
+}
+.d{
+    border: 2px groove black;
+    background-color: rgb(84, 139, 84);
+    margin-top: 150px;
+    
+
+}
+.e{
+    border: 2px groove black;
+    background-color: rgb(84, 139, 84);
+    margin-top: 150px;
+    padding-bottom: 350px;
+
+}
+.f{
+    border: 2px groove black;
+    background-color: rgb(84, 139, 84);
+    padding-bottom: 150px;
+
+}

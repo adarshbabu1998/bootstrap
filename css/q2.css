@@ -6,3 +6,34 @@
     background-color: rgb(12, 12, 12);
     border: 2px groove black;
 }
+.c{
+    background-color: orangered;
+    border: 2px groove black;
+    padding-bottom: 300px;
+    margin-top: 30px;
+    margin-left: 50px;
+
+}
+.d{
+    background-color:orangered;
+    border: 2px groove black;
+    margin-top: 30px;
+    padding-bottom: 150px;
+
+}
+.e{
+    background-color: orangered;
+    padding-bottom: 150px;
+}
+.f{
+    background-color: black;
+    border: 2px groove black;
+    margin-top: 30px;
+    margin-right: 70px;
+}
+
+.g{
+    background-color: orangered;
+    border: 2px groove black;
+    
+}

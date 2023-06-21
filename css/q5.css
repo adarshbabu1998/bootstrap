@@ -1,0 +1,21 @@
+.a{
+    background-color: rgb(36, 28, 28);
+    color: aliceblue;
+    border: 2px groove white;
+}
+.b{ background-color: rgb(36, 28, 28);;
+    color: aliceblue;
+    padding-bottom: 200px;
+    margin-top: 20px;
+    border: 2px dotted white;
+   
+
+}
+.c{
+    background-color: rgb(36, 28, 28);;
+    color: aliceblue;
+    padding-bottom: 200px;
+    margin-top: 20px;
+    border: 2px dotted white;
+
+}

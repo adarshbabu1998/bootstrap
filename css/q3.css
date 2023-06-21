@@ -1,0 +1,39 @@
+body{
+    background-color: rgba(194, 188, 180, 0.973);
+}
+.a{
+    background-color: rgb(48, 145, 48);
+    border: 2px groove black ;
+}
+.b{
+    background-color: rgb(123, 202, 123);
+    
+    margin-right: 40px;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.c{
+    background-color: green;
+    border: 2px groove black ;
+    padding-bottom: 600px;
+    margin-right: 1000px;
+    margin-left: 130px;
+    margin-top: 200px;
+   
+}
+.d{
+    background-color: green;
+    border: 2px groove black ;
+    margin-left: -950px;
+    margin-top: 200px;
+    
+    
+}
+.e{
+    background-color: green;
+    border: 2px groove black ;
+    margin-right: 100px;
+    margin-left: 50px;
+    margin-top: 200px;
+
+}

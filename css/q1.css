@@ -5,7 +5,7 @@
     padding-right: -20px;
     padding-left: -20px;
     padding-bottom: 10px;
-    padding-top: 20px;
+    padding-top: 20px; 
 }
 .a2{
     background-color: grey;
@@ -151,3 +151,6 @@
 }
 
 
+h1{
+    color: aliceblue;
+}
